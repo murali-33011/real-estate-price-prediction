@@ -57,3 +57,5 @@ Evaluation: Using R² Score & Cross-Validation to assess performance.
 Achieved a good R² score, indicating reliable predictions.
 
 Cross-validation confirms model consistency across different data splits.
+
+Soure of data credits : KAGGLE https://www.kaggle.com/datasets/kunwarakash/chennai-housing-sales-price
